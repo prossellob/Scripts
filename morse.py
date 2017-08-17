@@ -1,5 +1,5 @@
 '''Conversor de Morse a Ascii y de Ascii a Morse.
-   Creado por Pau Rosselló(prossellob) el 17/8/2017
+   Creado por Pau Rosselló(prossellob) el 17/8/2017.
    
    Introduce el mensaje que quieras convertir y listo.
 '''
