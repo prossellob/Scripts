@@ -1,2 +1,3 @@
 # Scripts
-Scripts Varios
+Varios scripts que he creado para realizar diferentes funciones.
+
