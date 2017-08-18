@@ -1,3 +1,8 @@
+'''Cifrado César.
+   Creado por Pau Rosselló(prossellob).
+   
+   Introduce el mensaje que quieras cifrar y la llave.
+'''
 inp1 = input('Input the text you want to code:\n')
 inp1 = inp1.lower()
 
