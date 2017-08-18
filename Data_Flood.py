@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+'''Data_Flood Malware
+   Creado por Pau Rosselló(prossellob) el 18/8/2017.
+   Creado con fines educativos, se prohibe el uso de este código para usos con fines lucrativos o dañinos.
+'''
+
 import os,shutil,random
 number_of_rep = 10
 text_files = 1
